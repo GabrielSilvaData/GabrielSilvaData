@@ -35,7 +35,7 @@ Possuo experiência em Projetos com Excel e Power BI, com foco na criação de d
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
-#### Data Analysis & Visualization
+#### Análise de Dados e Visualização
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Intermediário-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
@@ -43,7 +43,7 @@ Possuo experiência em Projetos com Excel e Power BI, com foco na criação de d
   <img src="https://img.shields.io/badge/Excel-Avançado-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
 </p>
 
-#### Programming & Automation
+#### Programação e Automação
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediário-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
