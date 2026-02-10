@@ -3,8 +3,8 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Ciência+da+Computação;Análise+de+Dados+%7C+Business+Intelligence;Transformando+dados+em+insights;Power+BI+%7C+Excel" alt="Typing SVG" />
+
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
@@ -17,21 +17,7 @@ Sou estudante de Ciência da Computação, com foco na área de Análise de Dado
 
 Possuo experiência em Projetos com Excel e Power BI, com foco na criação de dashboards intuitivos e análises que apoiem o entendimento dos dados. Busco também automatizar tarefas repetitivas e desenvolver habilidades analíticas que contribuam para a eficiência e o planejamento das empresas por meio dos dados.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://GabrielSilvaData.github.io/)
-      
-## 🔭 What I'm Currently Working On 
-
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
-
-## 🌱 Currently Learning 
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
-
-## 🛠️ Technical Skillset
+## 🛠️ Ferramentas 
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
@@ -46,12 +32,4 @@ Possuo experiência em Projetos com Excel e Power BI, com foco na criação de d
 #### Programação e Automação
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediário-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-</p>
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
