@@ -1,4 +1,4 @@
-## Olá, Meu nome é: [Gabriel Lourenço] 👋
+## Olá, Meu nome é: Gabriel Lourenço 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -8,20 +8,17 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/gabriel-louren%C3%A7o-57563b298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:gabrielsilva2822@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+## 🚀 Sobre Mim 
+Sou estudante de Ciência da Computação, com foco na área de Análise de Dados, e estou em constante aprendizado para transformar dados em informações relevantes para a tomada de decisão. Tenho interesse em trabalhar com bases de dados desorganizadas e complexas, organizando e analisando as informações de forma clara e objetiva.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+Possuo experiência em Projetos com Excel e Power BI, com foco na criação de dashboards intuitivos e análises que apoiem o entendimento dos dados. Busco também automatizar tarefas repetitivas e desenvolver habilidades analíticas que contribuam para a eficiência e o planejamento das empresas por meio dos dados.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://GabrielSilvaData.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
@@ -41,16 +38,14 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Intermediário-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Avançado-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Avançado-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
 </p>
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediário-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
